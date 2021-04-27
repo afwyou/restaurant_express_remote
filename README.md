@@ -24,7 +24,7 @@
 
 使用終端機，clone此專案到local位置
 ```
-git clone https://github.com/afwyou/restaurant_express_remote
+git clone https://github.com/afwyou/restaurant_express_remote.git
 ```
 * 使用終端機，進入此專案所在的資料夾
 
